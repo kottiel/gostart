@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-  fmt.Println("hello!")
+	fmt.Println("hello!")
+	//fmt.Println(IsPrime(5))
 }

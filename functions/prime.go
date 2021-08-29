@@ -1,6 +1,8 @@
 package functions
 
-import "math"
+import (
+	"math"
+)
 
 func IsPrime(n int) bool {
 	sqrtN := int(math.Sqrt(float64(n)))

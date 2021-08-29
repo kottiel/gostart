@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Println("hello!")
-	//fmt.Println(IsPrime(5))
+	fmt.Println(IsPrime(5))
 }
